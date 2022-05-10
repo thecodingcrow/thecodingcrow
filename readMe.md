@@ -3,8 +3,7 @@
 </p>
 
 <hr>                      
-<p align="center" justify="center">
-  <img src="https://img.icons8.com/ios-glyphs/27/FFFFFF/source-code.png"/>
+<p align="center">
   <a href="https://castlenft.io">My latest project</a>  
 </p>
 
