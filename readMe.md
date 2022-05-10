@@ -4,9 +4,7 @@
 
 <hr>                      
 <p>
-  <center>
-<a href="https://castlenft.io">My latest project</a>  
-  </center>
+  <a href="https://castlenft.io" style="margin: 0 auto;">My latest project</a>  
 </p>
 
 <hr>
