@@ -4,7 +4,7 @@
 
 <hr>                      
 <p align="center">
-  <img src="https://img.icons8.com/ios-glyphs/30/FFFFFF/source-code.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/27/FFFFFF/source-code.png"/>
   <a href="https://castlenft.io">My latest project</a>  
 </p>
 
