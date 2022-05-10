@@ -5,7 +5,7 @@
 <hr>                      
 <table align="center">    
   <tr>    
-    <td>You are visitor</td>  
+    <td>Of all humans and robots visiting this page, you are number</td>  
     <td><img src="https://profile-counter.glitch.me/thecodingcrow/count.svg" height="30" /></td>
   </tr>
 </table>  
