@@ -48,6 +48,7 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           # the output branch we mentioned above
+          palette: github-dark
           target_branch: output
           build_dir: dist
         env:
