@@ -19,4 +19,4 @@
 
 
 
-![cool animation](https://raw.githubusercontent.com/thecodingcrow/thecodingcrow/output/github-contribution-grid-snake2.svg)
+![cool animation](https://github.com/thecodingcrow/thecodingcrow/blob/output/github-contribution-grid-snake.gif)
