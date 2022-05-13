@@ -19,4 +19,4 @@
 
 
 
-![cool animation](https://github.com/thecodingcrow/thecodingcrow/blob/output/github-contribution-grid-snake.gif?palette=github-dark)
+![cool animation](https://github.com/thecodingcrow/thecodingcrow/blob/output/github-contribution-grid-snake.gif
