@@ -9,7 +9,7 @@
     <td><img src="https://profile-counter.glitch.me/thecodingcrow/count.svg" height="30" /></td>
   </tr>
 </table>  
-<hr>
+
 
 
 
