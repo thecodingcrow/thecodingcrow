@@ -3,12 +3,6 @@
 </p>
 
 <hr>                      
-<p align="center">
-  <a href="https://castlenft.io">My latest project</a>  
-</p>
-
-<hr>
-
 <table align="center">    
   <tr>    
     <td>Of all humans and robots visiting this page, you are number</td>  
