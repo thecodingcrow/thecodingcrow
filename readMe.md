@@ -40,11 +40,11 @@ const thecodingcrow = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodingcrow&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodingcrow&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecodingcrow&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=thecodingcrow&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=3" alt="GitHub Trophies"/>
 </div>
 
 ---
