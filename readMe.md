@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=The%20Coding%20Crow&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Elias%20Martinek&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=fff" width="100%"/>
 </div>
 
 <div align="center">
