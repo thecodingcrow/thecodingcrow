@@ -15,8 +15,6 @@
 
 ---
 
-### 🦅 About The Crow
-
 ```javascript
 const thecodingcrow = {
     code: ["Typescript", "Node.JS", "Python"],
@@ -38,8 +36,6 @@ const thecodingcrow = {
     funFact: "I can name all of the first 493 pokemons 👾"
 };
 ```
-
----
 
 ### 📊 GitHub Stats
 
