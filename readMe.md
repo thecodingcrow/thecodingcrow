@@ -19,17 +19,15 @@
 
 ```javascript
 const thecodingcrow = {
-    pronouns: "they" | "them",
-    code: ["JavaScript", "Python", "TypeScript", "Java", "C++"],
-    askMeAbout: ["web dev", "tech", "algorithms", "architecture"],
+    code: ["Typescript", "Node.JS", "Python"],
+    askMeAbout: ["web dev", "performance", "business", "pokemon"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
+            js: ["React", "Next.JS", "HTML"],
+            css: ["Tailwind", "SCSS"]
         },
         backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "Flask", "FastAPI"]
+            js: ["Node.js", "NestJS", "Design Patterns"],
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
         devOps: ["Docker", "Kubernetes", "AWS", "CI/CD"],
@@ -37,7 +35,7 @@ const thecodingcrow = {
     },
     architecture: ["Microservices", "Event-Driven", "Serverless"],
     currentFocus: "Building scalable systems and learning new technologies",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+    funFact: "I can name all of the first 493 pokemons 👾"
 };
 ```
 
