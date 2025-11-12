@@ -98,11 +98,43 @@ const thecodingcrow = {
 
 ---
 
+### 📅 Contribution Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecodingcrow&theme=tokyonight" alt="Profile Details" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thecodingcrow&theme=tokyonight&utcOffset=0" alt="Productive Time" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thecodingcrow&theme=tokyonight" alt="Repos Per Language" width="47%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecodingcrow&theme=tokyonight" alt="Most Commit Language" width="47%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecodingcrow&theme=tokyonight" alt="Stats" width="47%"/>
+</div>
+
+---
+
 ### 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thecodingcrow&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
+
+---
+
+### ⏱️ Coding Time Distribution
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=thecodingcrow&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="60%"/>
+</div>
+
+<p align="center">
+  <i>💡 Connect your <a href="https://wakatime.com">WakaTime</a> account to display your coding time stats!</i>
+</p>
 
 ---
 
@@ -136,10 +168,66 @@ const thecodingcrow = {
 
 ---
 
+### 🎮 GitHub Skyline
+
+<div align="center">
+  <a href="https://skyline.github.com/thecodingcrow/2024">
+    <img src="https://img.shields.io/badge/View%20My%202024%20Skyline-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2024"/>
+  </a>
+  <a href="https://skyline.github.com/thecodingcrow/2025">
+    <img src="https://img.shields.io/badge/View%20My%202025%20Skyline-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline 2025"/>
+  </a>
+</div>
+
+<p align="center">
+  <i>🏙️ View a 3D visualization of my contributions - Download and 3D print your own!</i>
+</p>
+
+---
+
+### 📊 Detailed Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thecodingcrow&repo=thecodingcrow&theme=tokyonight&hide_border=true" alt="Pinned Repo" width="47%"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=thecodingcrow&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="47%"/>
+</div>
+
+---
+
+### 🎖️ Holopin Badges
+
+<div align="center">
+  <a href="https://holopin.io/@thecodingcrow">
+    <img src="https://holopin.me/thecodingcrow" alt="Holopin Badge Board"/>
+  </a>
+</div>
+
+<p align="center">
+  <i>🏅 Collect your achievements on <a href="https://holopin.io">Holopin</a> and display them here!</i>
+</p>
+
+---
+
 ### 💭 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+### 🔥 GitHub Stats Summary
+
+<div align="center">
+
+| 📊 Metric | 📈 Value |
+|-----------|----------|
+| 🎯 Total Commits (2025) | ![](https://img.shields.io/github/commit-activity/y/thecodingcrow/thecodingcrow?style=flat-square&logo=github&color=blue) |
+| ⭐ Total Stars Earned | ![](https://img.shields.io/github/stars/thecodingcrow?affiliations=OWNER%2CCOLLABORATOR&style=social) |
+| 🍴 Forks | ![](https://img.shields.io/github/forks/thecodingcrow/thecodingcrow?style=social) |
+| 👁️ Watchers | ![](https://img.shields.io/github/watchers/thecodingcrow/thecodingcrow?style=social) |
+| 📦 Public Repos | ![](https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fthecodingcrow) |
+
 </div>
 
 ---
